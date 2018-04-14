@@ -1,1 +1,0 @@
-This Repo Contains all the SUpport Code for the 2017-2018 Senior Design Project 
